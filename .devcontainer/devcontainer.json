@@ -1,0 +1,1 @@
+{"postCreateCommand": "bash setup.sh","postStartCommand": "python server.py"}
